@@ -17,13 +17,13 @@
 
 #root #cart {
     background-color: #1f2630;
-    margin: 0 24.5rem;
     padding: 25px;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
+    width: 300px;
 }
 
 
